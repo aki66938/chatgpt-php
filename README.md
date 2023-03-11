@@ -1,4 +1,4 @@
-# docker版chatgpt-php
+# docker版chatgpt-web
 
 本项目基于[dirk1983/chatgpt](https://github.com/dirk1983/chatgpt)
 
